@@ -19,51 +19,53 @@ See it in action: [maicenita-dev.github.io](https://maicenita-dev.github.io)
 
 ## Languages
 
+Tap any badge to learn what it is.
 
+[
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
- 
+](https://en.wikipedia.org/wiki/Python_%28programming_language%29) [
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
- 
+](https://en.wikipedia.org/wiki/JavaScript) [
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
- 
+](https://en.wikipedia.org/wiki/HTML5) [
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
- 
+](https://en.wikipedia.org/wiki/CSS) [
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-
+](https://en.wikipedia.org/wiki/PowerShell)
 
 ## Frameworks/Platforms
 
-
+[
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
- 
+](https://en.wikipedia.org/wiki/Node.js) [
 
 ![Termux](https://img.shields.io/badge/termux-000000?style=for-the-badge&logo=termux&logoColor=white)
 
-
+](https://termux.dev)
 
 ## Other
 
-
+[
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
- 
+](https://en.wikipedia.org/wiki/Git) [
 
 ![VS Code](https://img.shields.io/badge/vscode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+](https://en.wikipedia.org/wiki/Visual_Studio_Code)
 
 ## עברית
 
