@@ -4,6 +4,19 @@ I build chat bots and small websites. Powered by caffeine, which I'm pretty sure
 
 > caffeine.exe has stopped responding. Please wait while I refill the cup.
 
+## Frontend
+
+I know a lot about frontend. Like, a lot. Ask me about CSS and I will talk until the coffee runs out.
+
+- Yes, I can center a div. On the first try. No, I will not explain how.
+- My pages look so good that the backend gets jealous.
+- Pixel-perfect is not a goal, it's a lifestyle.
+- My CSS is spotless. Please do not open the dev tools.
+
+> "Best frontend I have ever seen." - Me, to myself, in the mirror
+
+See it in action: [maicenita-dev.github.io](https://maicenita-dev.github.io)
+
 ## Languages
 
 
@@ -57,5 +70,7 @@ I build chat bots and small websites. Powered by caffeine, which I'm pretty sure
 שלום! אני Maicenita ואני כותבת קוד.
 
 אני בונה בוטים ואתרים קטנים.
+
+פרונטאנד זה הקטע שלי.
 
 קפה קודם, קוד אחר כך.
